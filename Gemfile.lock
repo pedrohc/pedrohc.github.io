@@ -1,13 +1,3 @@
-GIT
-  remote: https://github.com/pedrohc/pedrohc.github.io
-  revision: 193acb8296ca35a462f99a031809b32c3ab7a931
-  glob: _theme/no-style-please/*.gemspec
-  specs:
-    no-style-please (0.4.7)
-      jekyll (>= 3.9.0)
-      jekyll-feed (>= 0.15.1)
-      jekyll-seo-tag (>= 2.7.1)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -294,7 +284,6 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
-  no-style-please!
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)

@@ -32,7 +32,7 @@ github_username:  pedrohc
 permalink: /:slug.html
 
 # Build settings
-theme: no-style-please
+#theme: no-style-please
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
