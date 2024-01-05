@@ -1,5 +1,7 @@
-PATH
-  remote: _theme/no-style-please
+GIT
+  remote: https://github.com/pedrohc/pedrohc.github.io
+  revision: 193acb8296ca35a462f99a031809b32c3ab7a931
+  glob: _theme/no-style-please/*.gemspec
   specs:
     no-style-please (0.4.7)
       jekyll (>= 3.9.0)
