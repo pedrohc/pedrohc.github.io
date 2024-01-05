@@ -60,6 +60,10 @@ plugins:
 #
 
 favicon: "favicon.png"
+goat_counter: "pedrohc"
+
+sass:
+  style: :compressed
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
