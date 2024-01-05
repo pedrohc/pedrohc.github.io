@@ -35,4 +35,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "webrick", "~> 1.8"
 
 # Theme
-gem "no-style-please", :path=> './_theme/no-style-please'
+#gem "no-style-please", :path => './_theme/no-style-please'
+#gem "no-style-please", :git => 'https://github.com/pedrohc/pedrohc.github.io/'
+gem "no-style-please"
